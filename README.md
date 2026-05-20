@@ -44,8 +44,6 @@ Educational website project with responsive layout and improved user experience 
 ### 🛒 E-Commerce UI Concept
 A modern e-commerce interface inspired by platforms like Tokopedia and Shopee, featuring product displays and detail pages.
 
----
-
 ## 📈 Currently Learning
 
 - Advanced React Development
